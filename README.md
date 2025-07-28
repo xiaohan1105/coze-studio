@@ -1,5 +1,4 @@
-![Image](https://i.imgur.com/8pXqXW7.png)
-
+<div align="center"> <img src="https://i.imgur.com/8pXqXW7.png" width="200" alt="简约透明时钟"> </div>
 <div align="center"><p>
 <a href="#what-is-this">Clock_Zero</a> •
 <a href="#feature-list">Feature list</a> •
