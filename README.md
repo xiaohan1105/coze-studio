@@ -1,4 +1,4 @@
-![Modern Clock](https://i.imgur.com/8pXqXW7.png)
+![Image](https://i.imgur.com/8pXqXW7.png)
 
 <div align="center"><p>
 <a href="#what-is-this">Clock_Zero</a> •
